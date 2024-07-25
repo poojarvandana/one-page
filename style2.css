@@ -240,7 +240,7 @@ html,body{
   /* ----------media------------ */
 @media (max-width:576px) and (min-width:300px) {
   #aboutus{
-    margin-top: 200px;
+    margin-top: 500px;
   }
   #video{
     margin-bottom: -320px;
