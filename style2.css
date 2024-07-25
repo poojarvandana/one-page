@@ -7,7 +7,7 @@ html,body{
     overflow-x:hidden ;
 }
 .background{
-    background: url(../image/hero-bg-abstract.jpg);
+    background: url(hero-bg-abstract.jpg);
     text-align: center;
     padding-top: 40px;
     height: 700px;
@@ -253,7 +253,7 @@ html,body{
     margin-right:-400px ;
   }
   .background{
-    background: url(../image/hero-bg-abstract.jpg);
+    background: url(hero-bg-abstract.jpg);
     text-align: center;
     padding-top: 40px;
     height: 1400px;
@@ -272,7 +272,7 @@ html,body{
     margin-right:-400px ;
   }
   .background{
-    background: url(../image/hero-bg-abstract.jpg);
+    background: url(hero-bg-abstract.jpg);
     text-align: center;
     padding-top: 40px;
     height: 1400px;
